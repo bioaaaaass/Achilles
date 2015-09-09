@@ -57,7 +57,7 @@ public class _3SumClosest {
 		}
 		return result;
 	}
-	
+	//test
 	public static void main(String[] args) {
 		int[] s = {-1,2,1,-4};
 		int target = 1;

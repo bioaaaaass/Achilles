@@ -57,7 +57,7 @@ public class _3Sum {
 		}
 		return res;
 	}
-	
+	//test
 	public static void main(String[] args) {
 		int[] arr = {0,0,0,0};
 		List<List<Integer>> list = threeSum(arr);
